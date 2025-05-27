@@ -1,9 +1,8 @@
 # WeatheRuby
-# OpenWeatherMap Ruby SDK
 
 Это библиотека на Ruby для удобного взаимодействия с API OpenWeatherMap. Позволяет получать текущие погодные данные и прогнозы погоды по всему миру.
 
-## Установка
+## Установкаhttps://github.com/Max-g1f/WeatheRuby/blob/main/README.md
 
 Добавьте в ваш `Gemfile`:
 
